@@ -1,0 +1,7 @@
+/* INPUTS */
+input[type="submit"] {
+ background-color: #00c8ff;
+ border: solid #00c8ff;
+ border-radius: 0.3em;
+  color: white
+}
